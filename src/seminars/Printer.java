@@ -1,3 +1,5 @@
+package seminars;
+
 public class Printer {
     public static void main(String[] args) {
         Hometask ans = new Hometask();

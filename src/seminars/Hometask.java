@@ -1,3 +1,5 @@
+package seminars;
+
 public class Hometask {
 
     public static void arrayOutOfBoundsException() {

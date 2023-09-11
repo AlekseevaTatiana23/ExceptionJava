@@ -1,3 +1,5 @@
+package seminars;
+
 public class IndexFounder {
 
         public static int getIndexOfElem (int[] arr, int minLength, int element){

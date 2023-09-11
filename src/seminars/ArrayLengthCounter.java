@@ -1,3 +1,5 @@
+package seminars;
+
 public class ArrayLengthCounter {
     public static int getArrayLength (int[] arr, int minLength){
         if (arr.length <minLength){

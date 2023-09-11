@@ -1,3 +1,5 @@
+package seminars;
+
 import java.sql.SQLOutput;
 import java.util.LinkedList;
 import java.util.List;
