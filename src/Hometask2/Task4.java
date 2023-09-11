@@ -1,3 +1,5 @@
+package Hometask2;
+
 import java.util.Scanner;
 
 /**
